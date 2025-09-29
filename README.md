@@ -6,7 +6,8 @@
 RevLix is a powerful data recovery tool developed to recover deleted files on Linux systems. This program uses the PhotoRec infrastructure and provides a graphical user interface (GUI) for PhotoRec.
 
 
-NOTE: Thanks to [A. Serhet KILIÇOĞLU (Shampuan)](https://github.com/shampuan) for his great efforts in development and design.
+**Note:** Special thanks to [A. Serhet KILIÇOĞLU (Shampuan)](https://github.com/shampuan) for his significant contributions to the development and design.
+
 
 
 <h1 align="center">RevLix Logo</h1>
