@@ -1,37 +1,24 @@
-<a href="#">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
-</a>
-
-# RevLix (Recovery Linux) - Data Recovery Tool
-RevLix is a powerful data recovery tool developed to recover deleted files on Linux systems. This program uses the PhotoRec infrastructure and provides a graphical user interface (GUI) for PhotoRec.
-
-
-**Note:** Special thanks to [A. Serhet KILIÇOĞLU (Shampuan)](https://github.com/shampuan) for his significant contributions to the development and design.
-
-
-
-<h1 align="center">RevLix Logo</h1>
-
 <p align="center">
   <img src="revlixlo.png" alt="RevLix Logo" width="150" height="150">
 </p>
 
-# RevLix Data Recovery Tool
+# RevLix - Data Recovery Tool
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Platform-Linux-green.svg" alt="Platform">
   <img src="https://img.shields.io/badge/GUI-PyQt5-orange.svg" alt="GUI Framework">
   <img src="https://img.shields.io/badge/License-GPL--3.0-red.svg" alt="License">
 </div>
 
-## 🔍 Overview
+**RevLix** (Recovery Linux) is a comprehensive, professional-grade data recovery tool designed to recover deleted files and repair damaged storage devices. Built with a modern PyQt5 interface, it integrates multiple powerful recovery engines into a single, user-friendly application.
 
-**RevLix** is a comprehensive, professional-grade data recovery tool designed to recover deleted files and repair damaged storage devices. Built with a modern PyQt5 interface, it integrates multiple powerful recovery engines into a single, user-friendly application.
+**Note:** Special thanks to [A. Serhet KILIÇOĞLU (Shampuan)](https://github.com/shampuan) for his significant contributions to the development and design.
 
-### ✨ Key Features
+## ✨ Key Features
 
-- **🔧 Five Recovery Modes**: PhotoRec, TestDisk, ddrescue, foremost, and S.M.A.R.T. analysis
+- **🛟 Five Recovery Modes**: PhotoRec, TestDisk, ddrescue, foremost, and S.M.A.R.T. analysis
 - **💾 Universal Storage Support**: HDD, SSD, USB drives, SD cards, NVMe drives
 - **📁 Multi-Filesystem**: NTFS, FAT32, ext2/3/4, exFAT, HFS+, and more
 - **🎯 Real-time Progress Tracking**: Live monitoring of recovery operations
@@ -39,7 +26,7 @@ RevLix is a powerful data recovery tool developed to recover deleted files on Li
 - **🛡️ Automatic Privilege Management**: Seamless root access handling
 - **📊 Advanced Reporting**: HTML/PDF export for S.M.A.R.T. analysis
 
-## 🚀 Recovery Modes
+## 🛟 Recovery Modes
 
 ### 1. 📂 Data Recovery (PhotoRec)
 - **Full Disk Scan**: Comprehensive deep scanning
@@ -70,6 +57,20 @@ RevLix is a powerful data recovery tool developed to recover deleted files on Li
 - **Predictive Failure**: Early warning system
 - **Detailed Reports**: HTML/PDF export options
 - **Temperature Monitoring**: Real-time thermal data
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="/screenshots/1.png" alt="Data Recovery">
+  </p>
+  <img src="/screenshots/2.png" alt="Partition Recovery">
+  </p>
+  <img src="/screenshots/3.png" alt="Disk Imaging">
+  </p>
+  <img src="/screenshots/4.png" alt="Image Recovery">
+  </p>
+  <img src="/screenshots/5.png" alt="Disk Health">
+</div>
 
 ## 🛠️ Installation
 
